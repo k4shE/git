@@ -1,0 +1,11 @@
+username : intern
+password : Istanbul123
+
+/home/intern/vault
+notes.txt
+
+
+
+
+username: intern-token
+password: glpat-2YoBxZWtGcnXs6Hi9q2s
